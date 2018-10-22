@@ -1,0 +1,40 @@
+.rev_slider li.tp-revslider-slidesli
+{
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+}
+.slider_mgs_carousel .bg-slider
+{
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+}
+
+.header-v1 .setting-pt
+{
+	    filter: blur(0px);
+}
+strong.logo.hidden-sticky img
+{
+	filter: blur(0px);
+}
+div#header-v1 img {
+    filter: blur(0px);
+}
+.footer-container.footer-v4 address.copy
+{
+	
+	 filter: blur(0px);
+}
+.footer-container.footer-v4 .social-link
+{
+	
+    filter: blur(0px);	
+}
+.header .logo
+{
+	 filter: blur(0px);
+}
+header.header
+{
+	    background-position: 35% -37% !important;
+}
